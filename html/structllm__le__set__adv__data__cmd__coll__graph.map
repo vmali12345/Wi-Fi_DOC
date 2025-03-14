@@ -1,0 +1,5 @@
+<map id="llm_le_set_adv_data_cmd" name="llm_le_set_adv_data_cmd">
+<area shape="rect" id="Node000001" title="LLM LE Set Advertising Data Command parameters structure." alt="" coords="5,96,178,123"/>
+<area shape="rect" id="Node000002" href="$structadv__data.html" title="Advertising data structure." alt="" coords="54,5,129,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,48,94,95,89,95,89,48"/>
+</map>

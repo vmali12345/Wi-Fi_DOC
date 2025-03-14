@@ -1,0 +1,23 @@
+<map id="http_client_module" name="http_client_module">
+<area shape="rect" id="Node000001" title="Structure of HTTP client connection instance." alt="" coords="284,459,415,485"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="432,464,441,472,433,480,416,483,415,478,431,475,436,472,429,468"/>
+<area shape="rect" id="Node000002" href="$structhttp__client__config.html" title="HTTP client configuration structure." alt="" coords="5,368,129,395"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="123,397,310,456,308,461,121,402"/>
+<area shape="rect" id="Node000003" href="$structsw__timer__module.html" title="SW timer module structure." alt="" coords="97,277,221,304"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="107,313,87,330,76,349,71,368,66,367,71,347,83,326,104,309"/>
+<area shape="rect" id="Node000004" href="$structsw__timer__handle.html" title="SW timer handler structure." alt="" coords="153,368,272,395"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="154,319,154,332,157,343,168,356,182,365,179,370,164,360,153,345,149,332,149,319"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="215,353,210,329,200,317,186,307,189,302,204,313,215,327,220,352"/>
+<area shape="rect" id="Node000005" href="$structhttp__client__req.html" title="HTTP client request instance." alt="" coords="296,368,403,395"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="352,410,352,458,347,458,347,410"/>
+<area shape="rect" id="Node000006" href="$structhttp__entity.html" title="A structure that the implementation of HTTP entity." alt="" coords="308,277,391,304"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="352,320,352,367,347,367,347,320"/>
+<area shape="rect" id="Node000007" href="$struct_f_i_l.html" title=" " alt="" coords="330,187,370,213"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="352,229,352,277,347,277,347,229"/>
+<area shape="rect" id="Node000008" href="$struct_f_f_o_b_j_i_d.html" title=" " alt="" coords="311,96,388,123"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="352,138,352,186,347,186,347,138"/>
+<area shape="rect" id="Node000009" href="$struct_f_a_t_f_s.html" title=" " alt="" coords="319,5,380,32"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="352,48,352,95,347,95,347,48"/>
+<area shape="rect" id="Node000010" href="$structhttp__client__resp.html" title="HTTP client response instance." alt="" coords="426,368,540,395"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="453,406,370,460,367,456,450,401"/>
+</map>

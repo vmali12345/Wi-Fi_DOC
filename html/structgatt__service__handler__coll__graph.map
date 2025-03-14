@@ -1,0 +1,10 @@
+<map id="gatt_service_handler" name="gatt_service_handler">
+<area shape="rect" id="Node000001" title="GATT service handles." alt="" coords="5,187,147,213"/>
+<area shape="rect" id="Node000002" href="$structat__ble__uuid__t.html" title="UUID type." alt="" coords="6,5,104,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="61,48,69,122,77,186,72,187,64,123,55,48"/>
+<area shape="rect" id="Node000003" href="$structat__ble__characteristic__t.html" title="Characteristic structure." alt="" coords="138,96,291,123"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="92,38,193,93,190,98,90,42"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,134,97,188,94,184,180,129"/>
+<area shape="rect" id="Node000004" href="$structat__ble__char__presentation__t.html" title="Characteristic presentation format." alt="" coords="127,5,305,32"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="218,48,218,95,212,95,213,48"/>
+</map>

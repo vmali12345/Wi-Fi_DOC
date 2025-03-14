@@ -1,0 +1,5 @@
+<map id="llm_le_set_adv_param_cmd" name="llm_le_set_adv_param_cmd">
+<area shape="rect" id="Node000001" title="LLM LE Set Advertising Parameters Command parameters structure." alt="" coords="5,96,189,123"/>
+<area shape="rect" id="Node000002" href="$structbd__addr.html" title="BD Address structure." alt="" coords="63,5,131,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,48,100,95,94,95,94,48"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="sw_timer_module" name="sw_timer_module">
+<area shape="rect" id="Node000001" title="SW timer module structure." alt="" coords="5,5,129,32"/>
+<area shape="rect" id="Node000002" href="$structsw__timer__handle.html" title="SW timer handler structure." alt="" coords="7,96,127,123"/>
+<area shape="poly" id="edge2_Node000002_Node000001" title=" " alt="" coords="34,44,24,57,23,67,27,76,45,93,42,97,22,79,17,68,19,55,30,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,81,76,56,70,33,75,32,82,56,80,82"/>
+</map>
