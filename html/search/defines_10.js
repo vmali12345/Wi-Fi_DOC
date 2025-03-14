@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['rbt_5fchip_5fid_5freg_0',['rBT_CHIP_ID_REG',['../nmasic_8c.html#a6fe3dd00a1151a852384b0523940698a',1,'nmasic.c']]],
+  ['rev_1',['REV',['../nmasic_8h.html#a1ae6f0630ab56f5cbfdbbb5c363ec137',1,'nmasic.h']]],
+  ['rev_5f2b0_2',['REV_2B0',['../nmasic_8h.html#a4b871895903cd95fd2a59e16af25b5d5',1,'nmasic.h']]],
+  ['rev_5f3a0_3',['REV_3A0',['../nmasic_8h.html#a222553cdf7c83246ce1c9f0658689bce',1,'nmasic.h']]],
+  ['rev_5fb0_4',['REV_B0',['../nmasic_8h.html#a1c6d493f6664752be9ad5352ee3e4595',1,'nmasic.h']]],
+  ['rhave_5fext_5fpa_5finv_5ftx_5frx_5',['rHAVE_EXT_PA_INV_TX_RX',['../nmasic_8h.html#afc2e3012f3570c6fea4a209bfa950aa5',1,'nmasic.h']]],
+  ['rhave_5flegacy_5frf_5fsettings_6',['rHAVE_LEGACY_RF_SETTINGS',['../nmasic_8h.html#a9c7bb0fbc8bfea1602b7c728fd60c25e',1,'nmasic.h']]],
+  ['rhave_5flogs_5fdisabled_5fbit_7',['rHAVE_LOGS_DISABLED_BIT',['../nmasic_8h.html#aa9837a01f7890a38cc978e3c35fe791a',1,'nmasic.h']]],
+  ['rhave_5fsdio_5firq_5fgpio_5fbit_8',['rHAVE_SDIO_IRQ_GPIO_BIT',['../nmasic_8h.html#a290fe72d3e9e22f740711645567772d4',1,'nmasic.h']]],
+  ['rhave_5fsleep_5fclk_5fsrc_5frtc_5fbit_9',['rHAVE_SLEEP_CLK_SRC_RTC_BIT',['../nmasic_8h.html#a9ea61605237c0fe091646a1e98cfb426',1,'nmasic.h']]],
+  ['rhave_5fsleep_5fclk_5fsrc_5fxo_5fbit_10',['rHAVE_SLEEP_CLK_SRC_XO_BIT',['../nmasic_8h.html#a46773729582f5014adc8a908fd691807',1,'nmasic.h']]],
+  ['rhave_5fuse_5fpmu_5fbit_11',['rHAVE_USE_PMU_BIT',['../nmasic_8h.html#ab75d506a5202506fcf79b05301158319',1,'nmasic.h']]],
+  ['rnmi_5fboot_5freset_5fmux_12',['rNMI_BOOT_RESET_MUX',['../nmasic_8h.html#a99da705985875079fee81f8bd959bd8e',1,'nmasic.h']]],
+  ['rnmi_5fglb_5freset_13',['rNMI_GLB_RESET',['../nmasic_8h.html#a1447983c4721bf2a1ff1860b4991b1b2',1,'nmasic.h']]],
+  ['rnmi_5fgp_5freg_5f0_14',['rNMI_GP_REG_0',['../nmasic_8h.html#abeb2c5a422e7240315ae32df5aaa3c93',1,'nmasic.h']]],
+  ['rnmi_5fgp_5freg_5f1_15',['rNMI_GP_REG_1',['../nmasic_8h.html#a1a5b1ded422e69d2ed99fc8c35d7aa96',1,'nmasic.h']]],
+  ['rpl_5fpower_5fmax_16',['RPL_POWER_MAX',['../dbg__task_8h.html#a5b1f89ed8d8af6d8719fe7a08a76871e',1,'dbg_task.h']]],
+  ['rpl_5fpower_5fmin_17',['RPL_POWER_MIN',['../dbg__task_8h.html#a848c7e91f05ea71291fdd14789c4342a',1,'dbg_task.h']]],
+  ['rpl_5fpwr_5ftbl_5fsize_18',['RPL_PWR_TBL_SIZE',['../dbg__task_8h.html#a5e1bec5885f2510cc4b586f4b8f325b9',1,'dbg_task.h']]]
+];
