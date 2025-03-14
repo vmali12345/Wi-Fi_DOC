@@ -1,0 +1,7 @@
+<map id="at_ble_characteristic_t" name="at_ble_characteristic_t">
+<area shape="rect" id="Node000001" title="Characteristic structure." alt="" coords="58,96,211,123"/>
+<area shape="rect" id="Node000002" href="$structat__ble__uuid__t.html" title="UUID type." alt="" coords="5,5,104,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,42,125,94,121,97,74,45"/>
+<area shape="rect" id="Node000003" href="$structat__ble__char__presentation__t.html" title="Characteristic presentation format." alt="" coords="127,5,304,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,45,148,97,144,94,192,42"/>
+</map>

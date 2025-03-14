@@ -1,0 +1,5 @@
+<map id="at_ble_connected_t" name="at_ble_connected_t">
+<area shape="rect" id="Node000001" title="AT_BLE_CONNECTED message format. This message is sent to the APP when the link request is complete." alt="" coords="5,96,140,123"/>
+<area shape="rect" id="Node000002" href="$structat__ble__addr__t.html" title="Blue&#45;tooth Low Energy address Type." alt="" coords="23,5,122,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,48,75,95,70,95,70,48"/>
+</map>

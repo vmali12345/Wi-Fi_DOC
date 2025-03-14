@@ -1,0 +1,17 @@
+<map id="app_csc_data" name="app_csc_data">
+<area shape="rect" id="Node000001" title=" " alt="" coords="530,99,632,125"/>
+<area shape="rect" id="Node000002" href="$structat__ble__connected__t.html" title="AT_BLE_CONNECTED message format. This message is sent to the APP when the link request is complete." alt="" coords="248,8,382,35"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="398,36,452,51,507,70,559,96,557,101,505,74,451,56,396,41"/>
+<area shape="rect" id="Node000003" href="$structat__ble__addr__t.html" title="Blue&#45;tooth Low Energy address Type." alt="" coords="5,8,105,35"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,19,247,19,247,24,121,24"/>
+<area shape="rect" id="Node000004" href="$structat__ble__primary__service__found__t.html" title=" " alt="" coords="237,59,392,101"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="408,88,530,103,529,109,408,94"/>
+<area shape="rect" id="Node000005" href="$structat__ble__uuid__t.html" title="UUID type." alt="" coords="6,133,104,160"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="116,126,128,123,236,95,238,101,129,128,118,131"/>
+<area shape="rect" id="Node000006" href="$structat__ble__characteristic__found__t.html" title=" " alt="" coords="244,125,386,168"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="120,144,244,144,244,149,120,149"/>
+<area shape="rect" id="Node000007" href="$structat__ble__descriptor__found__t.html" title=" " alt="" coords="230,192,400,219"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="117,162,129,165,237,189,236,194,128,171,115,167"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="401,135,506,121,529,118,530,123,506,127,402,140"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="403,185,454,172,505,154,559,124,561,128,507,158,456,177,405,191"/>
+</map>
