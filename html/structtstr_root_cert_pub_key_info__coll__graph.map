@@ -1,0 +1,7 @@
+<map id="tstrRootCertPubKeyInfo" name="tstrRootCertPubKeyInfo">
+<area shape="rect" id="Node000001" title="Info about the public key contained in a root certificate." alt="" coords="102,96,263,123"/>
+<area shape="rect" id="Node000002" href="$structtstr_root_cert_rsa_key_info.html" title="Info about a RSA public key." alt="" coords="5,5,168,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,41,171,93,167,97,109,45"/>
+<area shape="rect" id="Node000003" href="$structtstr_root_cert_ecdsa_key_info.html" title="Info about a ECDSA public key." alt="" coords="192,5,368,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="264,46,238,74,205,98,202,93,234,70,260,42"/>
+</map>

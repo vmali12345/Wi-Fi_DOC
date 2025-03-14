@@ -1,0 +1,11 @@
+<map id="tstrRootCertEntryHeader" name="tstrRootCertEntryHeader">
+<area shape="rect" id="Node000001" title="Header of a root certificate entry in flash." alt="" coords="30,187,196,213"/>
+<area shape="rect" id="Node000002" href="$structtstr_system_time.html" title="This struct contains the system time." alt="" coords="5,96,120,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,135,108,185,104,187,75,138"/>
+<area shape="rect" id="Node000003" href="$structtstr_root_cert_pub_key_info.html" title="Info about the public key contained in a root certificate." alt="" coords="143,96,304,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,135,165,165,133,188,130,184,162,161,197,131"/>
+<area shape="rect" id="Node000004" href="$structtstr_root_cert_rsa_key_info.html" title="Info about a RSA public key." alt="" coords="45,5,208,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="146,42,172,70,204,93,201,98,169,74,143,46"/>
+<area shape="rect" id="Node000005" href="$structtstr_root_cert_ecdsa_key_info.html" title="Info about a ECDSA public key." alt="" coords="232,5,408,32"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="297,45,239,97,236,93,293,41"/>
+</map>

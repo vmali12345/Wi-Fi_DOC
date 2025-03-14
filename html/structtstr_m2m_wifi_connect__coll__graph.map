@@ -1,0 +1,11 @@
+<map id="tstrM2mWifiConnect" name="tstrM2mWifiConnect">
+<area shape="rect" id="Node000001" title="This struct stores the Wi&#45;Fi connect request." alt="" coords="98,277,239,304"/>
+<area shape="rect" id="Node000002" href="$structtstr_m2_m_wifi_sec_info.html" title="This struct stores the authentication credentials to connect to a Wi&#45;Fi network." alt="" coords="100,187,237,213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,229,171,277,166,277,166,229"/>
+<area shape="rect" id="Node000003" href="$uniontuni_m2_m_wifi_auth.html" title="This struct stores the Wi&#45;Fi Security Parameters for all supported security modes." alt="" coords="108,96,229,123"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="171,138,171,186,166,186,166,138"/>
+<area shape="rect" id="Node000004" href="$structtstr1x_auth_credentials.html" title="This struct stores the credentials for the user to authenticate with the AAA server (WPA&#45;Enterprise M..." alt="" coords="5,5,153,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="104,41,157,94,154,97,101,45"/>
+<area shape="rect" id="Node000005" href="$structtstr_m2m_wifi_wep_params.html" title="This struct stores the WEP security key parameters." alt="" coords="177,5,341,32"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="237,45,183,97,179,94,233,41"/>
+</map>
