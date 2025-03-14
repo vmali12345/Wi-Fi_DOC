@@ -1,0 +1,5 @@
+<map id="tstrM2MProvisionModeConfig" name="tstrM2MProvisionModeConfig">
+<area shape="rect" id="Node000001" title="This struct contains the provisioning mode configuration." alt="" coords="5,96,199,123"/>
+<area shape="rect" id="Node000002" href="$structtstr_m2_m_a_p_config.html" title="This structure holds the configuration parameters for the AP mode. It should be set by the applicatio..." alt="" coords="39,5,165,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,48,105,95,99,95,99,48"/>
+</map>
