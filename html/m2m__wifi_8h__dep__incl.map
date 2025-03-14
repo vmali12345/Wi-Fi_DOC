@@ -1,0 +1,24 @@
+<map id="C:/Xilinx/Workspace/Zedboard_Winc3400/Workspace/Wi&#45;Fi_Test/src/m2m_wifi.h" name="C:/Xilinx/Workspace/Zedboard_Winc3400/Workspace/Wi&#45;Fi_Test/src/m2m_wifi.h">
+<area shape="rect" id="Node000001" title="WINC3400 IoT Application Interface." alt="" coords="323,5,536,64"/>
+<area shape="rect" id="Node000002" href="$helloworld_8c.html" title="BLE and Wi&#45;Fi Initialization with SPI Communication." alt="" coords="159,325,372,384"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="308,45,224,53,139,67,69,87,43,99,25,114,15,129,10,144,8,159,11,173,26,203,51,231,85,258,123,283,199,322,197,327,120,287,82,262,48,235,21,206,6,175,3,159,4,143,10,126,21,110,40,95,67,82,138,61,223,48,307,39"/>
+<area shape="rect" id="Node000003" href="$http__client_8c.html" title=" " alt="" coords="35,112,248,171"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="337,72,221,114,220,109,336,67"/>
+<area shape="rect" id="Node000004" href="$m2m__ble_8c.html" title="WINC3400 BLE Application example code." alt="" coords="179,219,392,277"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="354,75,332,92,313,113,300,139,292,167,287,219,282,218,287,166,295,137,309,111,328,88,351,70"/>
+<area shape="rect" id="Node000005" href="$m2m__ble_8h.html" title="WINC3400 BLE Application example code." alt="" coords="323,112,536,171"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="432,80,432,112,427,112,427,80"/>
+<area shape="rect" id="Node000007" href="$m2m__ota_8c.html" title="WINC3400 IoT OTA Interface." alt="" coords="560,112,774,171"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="510,68,603,109,601,114,507,73"/>
+<area shape="rect" id="Node000008" href="$m2m__wifi_8c.html" title="This module contains M2M Wi&#45;Fi APIs implementation." alt="" coords="798,112,1011,171"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="552,59,786,109,798,112,797,117,785,115,551,64"/>
+<area shape="rect" id="Node000009" href="$wifi__prov_8h.html" title="WiFi Provisioning Declarations." alt="" coords="1035,112,1248,171"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="552,45,772,71,1023,109,1035,112,1034,117,1023,115,771,76,552,51"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="380,182,327,220,323,216,376,178"/>
+<area shape="rect" id="Node000006" href="$_wi___fi___initialization_8h.html" title=" " alt="" coords="416,219,651,277"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="471,180,507,216,503,220,467,184"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="447,286,340,327,338,322,445,281"/>
+<area shape="poly" id="edge11_Node000009_Node000006" title=" " alt="" coords="1020,174,822,208,652,234,651,228,821,203,1019,169"/>
+<area shape="rect" id="Node000010" href="$wifi__prov_8c.html" title="WiFi Provisioning Implementations." alt="" coords="1035,219,1248,277"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="1144,186,1144,218,1139,218,1139,186"/>
+</map>

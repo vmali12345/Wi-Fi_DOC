@@ -1,0 +1,117 @@
+<map id="C:/Xilinx/Workspace/Zedboard_Winc3400/Workspace/Wi&#45;Fi_Test/src/nm_bsp_internal.h" name="C:/Xilinx/Workspace/Zedboard_Winc3400/Workspace/Wi&#45;Fi_Test/src/nm_bsp_internal.h">
+<area shape="rect" id="Node000001" title="This module contains WINC3400 BSP APIs declarations." alt="" coords="1806,5,2027,64"/>
+<area shape="rect" id="Node000002" href="$nm__debug_8h.html" title="This module contains debug APIs declarations." alt="" coords="1810,112,2023,171"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1919,80,1919,112,1914,112,1914,80"/>
+<area shape="rect" id="Node000003" href="$nm__common_8h.html" title="This module contains common APIs declarations." alt="" coords="1810,219,2023,277"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1919,186,1919,218,1914,218,1914,186"/>
+<area shape="rect" id="Node000004" href="$http__client_8h.html" title="HTTP client service." alt="" coords="895,563,1109,621"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1795,264,1611,288,1399,324,1298,347,1207,373,1132,402,1103,418,1080,434,1053,463,1034,498,1010,563,1005,561,1029,496,1049,460,1076,430,1100,413,1130,397,1205,367,1296,341,1398,319,1610,283,1794,259"/>
+<area shape="rect" id="Node000007" href="$m2m__hif_8c.html" title="This module contains M2M host interface APIs implementation." alt="" coords="2047,563,2261,621"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="2000,284,2021,302,2037,324,2045,340,2048,355,2045,369,2037,385,2027,398,2015,405,1989,411,1964,416,1954,422,1944,433,1934,453,1931,470,1934,487,1944,505,1958,515,1988,529,2070,560,2068,565,1986,534,1956,520,1940,508,1929,488,1926,470,1929,451,1940,431,1950,418,1962,411,1988,405,2013,400,2023,394,2033,383,2040,368,2042,355,2040,342,2033,327,2017,306,1997,288"/>
+<area shape="rect" id="Node000008" href="$m2m__hif_8h.html" title="This module contains M2M host interface APIs implementation." alt="" coords="1327,440,1541,499"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="1795,257,1699,264,1600,278,1515,298,1483,312,1461,327,1444,352,1435,382,1432,412,1433,439,1427,440,1427,412,1430,381,1439,350,1457,323,1481,307,1514,293,1599,273,1698,259,1794,251"/>
+<area shape="rect" id="Node000009" href="$m2m__ota_8c.html" title="WINC3400 IoT OTA Interface." alt="" coords="31,563,245,621"/>
+<area shape="poly" id="edge13_Node000003_Node000009" title=" " alt="" coords="1794,254,1525,260,1188,273,861,295,727,310,625,328,556,348,488,375,422,406,360,440,252,509,175,564,172,560,249,504,357,436,420,402,486,370,554,343,624,323,726,305,861,290,1187,268,1525,255,1794,249"/>
+<area shape="rect" id="Node000013" href="$m2m__ota_8h.html" title="WINC3400 IoT OTA Interface." alt="" coords="387,440,601,499"/>
+<area shape="poly" id="edge14_Node000003_Node000013" title=" " alt="" coords="1794,254,1553,260,1258,273,975,295,860,310,772,328,705,351,641,381,537,442,534,437,638,377,703,346,770,323,859,305,975,290,1258,268,1553,255,1794,249"/>
+<area shape="rect" id="Node000014" href="$m2m__periph_8h.html" title="WINC3400 Peripherals Application Interface." alt="" coords="1615,440,1829,499"/>
+<area shape="poly" id="edge16_Node000003_Node000014" title=" " alt="" coords="1834,288,1807,306,1784,327,1764,354,1749,384,1730,441,1725,439,1744,382,1760,352,1780,324,1804,301,1831,283"/>
+<area shape="rect" id="Node000015" href="$m2m__types_8h.html" title="WINC3400 IoT Application Interface Internal Types." alt="" coords="802,325,1015,384"/>
+<area shape="poly" id="edge19_Node000003_Node000015" title=" " alt="" coords="1794,257,1451,280,1243,301,1034,328,1016,331,1015,326,1033,323,1242,295,1451,275,1794,252"/>
+<area shape="rect" id="Node000019" href="$m2m__wifi_8h.html" title="WINC3400 IoT Application Interface." alt="" coords="726,440,939,499"/>
+<area shape="poly" id="edge48_Node000003_Node000019" title=" " alt="" coords="1794,251,1529,253,1213,262,1064,272,937,285,842,304,810,315,792,327,784,339,780,352,783,382,796,412,812,438,808,441,791,414,778,383,775,352,779,337,788,323,808,310,840,299,936,280,1064,266,1213,257,1529,247,1794,246"/>
+<area shape="rect" id="Node000022" href="$nmdrv_8c.html" title="This module contains WINC3400 M2M driver APIs implementation." alt="" coords="2335,563,2549,621"/>
+<area shape="poly" id="edge69_Node000003_Node000022" title=" " alt="" coords="1984,282,2172,382,2226,402,2249,412,2276,430,2294,449,2306,467,2316,485,2333,505,2366,534,2400,560,2397,564,2363,538,2329,509,2312,488,2301,469,2290,452,2272,434,2246,417,2224,407,2170,386,1982,287"/>
+<area shape="rect" id="Node000026" href="$nm__bsp_8c.html" title="This module contains SAMD21 BSP APIs implementation." alt="" coords="1810,325,2023,384"/>
+<area shape="poly" id="edge49_Node000003_Node000026" title=" " alt="" coords="1919,293,1919,325,1914,325,1914,293"/>
+<area shape="rect" id="Node000027" href="$nm__bus__wrapper_8h.html" title="This module contains WINC3400 bus wrapper APIs declarations." alt="" coords="2240,325,2465,384"/>
+<area shape="poly" id="edge50_Node000003_Node000027" title=" " alt="" coords="2039,276,2241,324,2239,329,2038,281"/>
+<area shape="rect" id="Node000028" href="$nm__bus__wrapper__zynq__7000_8c.html" title="This module contains WINC3400 bus wrapper APIs implementation." alt="" coords="2343,432,2557,507"/>
+<area shape="poly" id="edge58_Node000003_Node000028" title=" " alt="" coords="2039,270,2107,292,2173,323,2191,338,2202,353,2213,367,2230,382,2286,412,2344,435,2342,440,2283,417,2227,386,2209,371,2198,356,2187,342,2170,328,2105,297,2038,275"/>
+<area shape="rect" id="Node000029" href="$nmbus_8h.html" title="This module contains WINC3400 bus APIs implementation." alt="" coords="2869,440,3082,499"/>
+<area shape="poly" id="edge68_Node000003_Node000029" title=" " alt="" coords="2039,246,2294,248,2598,258,2740,268,2863,282,2954,300,2985,311,3004,323,3013,337,3018,351,3017,382,3008,413,2995,441,2991,438,3003,411,3012,382,3012,352,3008,339,3000,327,2982,315,2952,305,2862,287,2740,273,2597,264,2294,254,2039,251"/>
+<area shape="rect" id="Node000030" href="$nmasic_8c.html" title="This module contains WINC3400 ASIC specific internal APIs." alt="" coords="2826,563,3039,621"/>
+<area shape="poly" id="edge60_Node000003_Node000030" title=" " alt="" coords="2038,249,2296,256,2603,269,2749,279,2876,291,2972,305,3006,314,3028,323,3077,360,3095,381,3107,404,3114,428,3115,454,3109,480,3096,508,3083,526,3066,541,3029,564,3026,560,3063,537,3079,522,3092,505,3104,479,3110,453,3109,429,3102,406,3090,384,3073,364,3026,328,3005,319,2971,311,2875,296,2749,284,2603,274,2295,261,2038,254"/>
+<area shape="rect" id="Node000032" href="$nmspi_8c.html" title="This module contains WINC3400 SPI protocol bus APIs implementation." alt="" coords="2581,440,2794,499"/>
+<area shape="poly" id="edge75_Node000003_Node000032" title=" " alt="" coords="2039,253,2157,262,2284,277,2398,296,2443,309,2478,323,2495,337,2505,351,2514,367,2529,382,2574,412,2621,437,2618,442,2571,417,2525,386,2510,370,2501,354,2491,340,2475,328,2442,314,2396,302,2283,282,2156,268,2038,258"/>
+<area shape="rect" id="Node000033" href="$nm__common_8c.html" title="This module contains common APIs declarations." alt="" coords="2539,325,2753,384"/>
+<area shape="poly" id="edge59_Node000003_Node000033" title=" " alt="" coords="2039,259,2263,285,2521,323,2539,326,2538,331,2520,328,2263,290,2038,264"/>
+<area shape="rect" id="Node000034" href="$nmasic_8h.html" title="This module contains WINC3400 ASIC specific internal APIs." alt="" coords="1954,440,2167,499"/>
+<area shape="poly" id="edge61_Node000003_Node000034" title=" " alt="" coords="1836,288,1816,306,1800,327,1793,342,1790,355,1792,368,1800,382,1823,401,1860,417,1954,445,1953,450,1858,422,1820,405,1796,386,1787,370,1785,355,1788,340,1796,324,1812,302,1833,284"/>
+<area shape="rect" id="Node000035" href="$nmdrv_8h.html" title="This module contains WINC3400 M2M driver APIs declarations." alt="" coords="1471,325,1685,384"/>
+<area shape="poly" id="edge70_Node000003_Node000035" title=" " alt="" coords="1810,285,1671,327,1670,322,1809,280"/>
+<area shape="rect" id="Node000036" href="$nmspi_8h.html" title="This module contains WINC3400 SPI protocol bus APIs implementation." alt="" coords="2777,325,2990,384"/>
+<area shape="poly" id="edge76_Node000003_Node000036" title=" " alt="" coords="2039,252,2368,275,2566,295,2765,323,2776,325,2775,330,2764,328,2566,301,2367,280,2038,257"/>
+<area shape="rect" id="Node000005" href="$helloworld_8c.html" title="BLE and Wi&#45;Fi Initialization with SPI Communication." alt="" coords="989,784,1202,843"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1043,632,1072,676,1090,732,1096,783,1091,784,1084,733,1067,678,1039,635"/>
+<area shape="rect" id="Node000006" href="$http__client_8c.html" title=" " alt="" coords="845,677,1058,736"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="985,636,967,678,962,676,980,634"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="1542,500,1560,504,1631,516,1693,523,1797,527,1902,533,1964,540,2036,552,2067,559,2066,565,2035,557,1963,545,1902,538,1797,533,1692,528,1631,521,1559,509,1541,506"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="1335,505,1316,509,1163,531,1034,541,919,543,812,540,705,537,590,536,460,542,308,557,245,568,244,563,307,552,460,537,590,531,705,532,812,535,919,538,1034,536,1163,526,1315,504,1334,500"/>
+<area shape="rect" id="Node000010" href="$m2m__periph_8c.html" title="WINC3400 Peripherials Application Interface." alt="" coords="1810,563,2023,621"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="1546,501,1560,504,1679,528,1798,552,1826,559,1825,565,1797,557,1678,533,1559,509,1544,506"/>
+<area shape="rect" id="Node000011" href="$m2m__wifi_8c.html" title="This module contains M2M Wi&#45;Fi APIs implementation." alt="" coords="1573,563,1786,621"/>
+<area shape="poly" id="edge11_Node000008_Node000011" title=" " alt="" coords="1507,503,1622,560,1619,564,1504,508"/>
+<area shape="rect" id="Node000012" href="$socket_8c.html" title="BSD compatible socket interface." alt="" coords="1378,784,1591,843"/>
+<area shape="poly" id="edge12_Node000008_Node000012" title=" " alt="" coords="1478,509,1494,530,1506,554,1514,585,1518,617,1517,681,1508,739,1496,784,1491,783,1503,738,1512,680,1513,617,1509,586,1501,556,1489,533,1474,512"/>
+<area shape="poly" id="edge15_Node000013_Node000009" title=" " alt="" coords="395,507,223,565,222,560,394,502"/>
+<area shape="poly" id="edge17_Node000014_Node000007" title=" " alt="" coords="1835,501,1848,504,2036,552,2062,560,2061,565,2034,557,1846,509,1834,506"/>
+<area shape="poly" id="edge18_Node000014_Node000010" title=" " alt="" coords="1782,505,1871,560,1869,564,1779,509"/>
+<area shape="poly" id="edge25_Node000015_Node000007" title=" " alt="" coords="1031,356,1169,362,1321,375,1458,397,1513,412,1554,430,1572,448,1580,468,1588,488,1605,504,1642,520,1693,530,1815,539,1940,543,1993,546,2036,552,2067,560,2066,565,2035,557,1993,552,1939,549,1815,545,1692,535,1641,525,1602,509,1583,491,1575,470,1568,451,1551,434,1511,417,1457,402,1320,380,1169,368,1031,361"/>
+<area shape="poly" id="edge26_Node000015_Node000009" title=" " alt="" coords="788,376,720,398,688,414,658,434,644,452,638,471,631,491,614,509,566,535,522,550,481,555,440,554,355,548,307,549,252,557,223,565,222,560,251,552,306,543,355,542,441,548,480,549,521,544,564,531,611,505,626,488,633,469,639,449,655,430,685,410,718,394,786,371"/>
+<area shape="poly" id="edge27_Node000015_Node000013" title=" " alt="" coords="788,390,620,435,593,442,592,437,618,429,786,385"/>
+<area shape="poly" id="edge28_Node000015_Node000014" title=" " alt="" coords="1031,361,1292,384,1445,404,1597,429,1629,437,1628,442,1596,435,1444,409,1292,389,1030,366"/>
+<area shape="rect" id="Node000016" href="$m2m__ble_8c.html" title="WINC3400 BLE Application example code." alt="" coords="61,677,274,736"/>
+<area shape="poly" id="edge20_Node000015_Node000016" title=" " alt="" coords="787,366,585,386,470,402,353,422,243,447,146,478,105,495,70,514,42,534,21,556,11,575,8,591,12,609,21,628,45,655,75,675,73,679,41,659,17,631,7,610,3,592,6,573,17,553,38,530,67,509,103,490,144,473,241,442,352,417,469,397,585,381,786,361"/>
+<area shape="rect" id="Node000017" href="$m2m__ble_8h.html" title="WINC3400 BLE Application example code." alt="" coords="319,563,533,621"/>
+<area shape="poly" id="edge21_Node000015_Node000017" title=" " alt="" coords="792,392,752,411,716,434,698,452,688,471,677,490,658,509,601,537,521,565,520,560,599,532,655,504,673,486,683,468,693,449,712,430,750,406,790,388"/>
+<area shape="poly" id="edge29_Node000015_Node000019" title=" " alt="" coords="883,398,854,441,850,438,879,395"/>
+<area shape="poly" id="edge39_Node000015_Node000022" title=" " alt="" coords="1031,360,1719,398,2039,418,2180,430,2198,447,2205,467,2211,486,2225,505,2246,518,2276,532,2351,560,2349,565,2274,537,2243,522,2221,509,2206,489,2200,468,2194,450,2178,434,2039,423,1719,404,1031,365"/>
+<area shape="rect" id="Node000023" href="$socket_8h.html" title="BSD compatible socket interface." alt="" coords="1090,440,1303,499"/>
+<area shape="poly" id="edge40_Node000015_Node000023" title=" " alt="" coords="997,388,1124,437,1122,442,995,393"/>
+<area shape="poly" id="edge24_Node000017_Node000016" title=" " alt="" coords="347,630,234,679,232,674,345,626"/>
+<area shape="rect" id="Node000018" href="$_wi___fi___initialization_8h.html" title=" " alt="" coords="298,677,533,736"/>
+<area shape="poly" id="edge22_Node000017_Node000018" title=" " alt="" coords="424,637,421,677,415,676,419,636"/>
+<area shape="poly" id="edge23_Node000018_Node000005" title=" " alt="" coords="549,734,788,771,989,797,988,802,788,776,548,739"/>
+<area shape="poly" id="edge30_Node000019_Node000005" title=" " alt="" coords="821,514,809,564,804,622,805,652,810,681,820,709,835,734,857,752,894,767,989,792,987,797,893,772,855,756,831,738,815,711,805,683,800,653,798,622,804,563,815,513"/>
+<area shape="poly" id="edge31_Node000019_Node000006" title=" " alt="" coords="844,513,860,569,885,628,903,653,923,675,919,679,899,656,881,631,855,571,839,514"/>
+<area shape="poly" id="edge34_Node000019_Node000009" title=" " alt="" coords="711,500,657,509,546,524,460,531,373,539,264,557,232,565,231,559,263,552,373,534,459,525,546,519,656,504,710,494"/>
+<area shape="poly" id="edge35_Node000019_Node000011" title=" " alt="" coords="955,486,1078,504,1269,527,1460,552,1572,570,1571,575,1459,557,1268,533,1077,509,954,492"/>
+<area shape="poly" id="edge32_Node000019_Node000016" title=" " alt="" coords="711,499,657,509,603,516,555,516,474,512,436,513,397,519,355,532,309,557,291,573,282,590,273,609,259,631,207,679,203,675,254,628,269,607,277,588,287,569,306,552,353,528,396,513,435,507,474,507,556,511,602,510,656,504,710,494"/>
+<area shape="poly" id="edge33_Node000019_Node000017" title=" " alt="" coords="720,506,545,557,520,565,519,560,544,552,718,501"/>
+<area shape="rect" id="Node000020" href="$wifi__prov_8h.html" title="WiFi Provisioning Declarations." alt="" coords="557,563,770,621"/>
+<area shape="poly" id="edge36_Node000019_Node000020" title=" " alt="" coords="781,510,705,564,702,560,778,506"/>
+<area shape="poly" id="edge37_Node000020_Node000018" title=" " alt="" coords="587,631,479,679,477,674,585,626"/>
+<area shape="rect" id="Node000021" href="$wifi__prov_8c.html" title="WiFi Provisioning Implementations." alt="" coords="557,677,770,736"/>
+<area shape="poly" id="edge38_Node000020_Node000021" title=" " alt="" coords="666,637,666,677,661,677,661,637"/>
+<area shape="poly" id="edge42_Node000023_Node000004" title=" " alt="" coords="1139,509,1050,564,1047,560,1136,505"/>
+<area shape="poly" id="edge41_Node000023_Node000005" title=" " alt="" coords="1186,514,1106,785,1101,783,1181,513"/>
+<area shape="poly" id="edge46_Node000023_Node000012" title=" " alt="" coords="1305,501,1461,553,1479,580,1491,610,1498,642,1502,675,1500,736,1493,784,1488,783,1495,735,1496,675,1493,643,1486,612,1474,583,1458,557,1304,506"/>
+<area shape="rect" id="Node000024" href="$m2m__socket__host__if_8h.html" title="BSD compatible socket interface internal types." alt="" coords="1234,555,1447,629"/>
+<area shape="poly" id="edge43_Node000023_Node000024" title=" " alt="" coords="1244,507,1298,552,1295,556,1241,511"/>
+<area shape="rect" id="Node000025" href="$socket__internal_8h.html" title="BSD compatible socket interface internal types." alt="" coords="1234,677,1447,736"/>
+<area shape="poly" id="edge47_Node000023_Node000025" title=" " alt="" coords="1197,514,1202,571,1211,601,1224,628,1248,654,1277,675,1274,679,1244,658,1220,631,1206,603,1197,572,1191,514"/>
+<area shape="poly" id="edge44_Node000024_Node000025" title=" " alt="" coords="1343,645,1343,677,1338,677,1338,645"/>
+<area shape="poly" id="edge45_Node000025_Node000012" title=" " alt="" coords="1394,743,1447,781,1444,786,1391,747"/>
+<area shape="poly" id="edge51_Node000027_Node000028" title=" " alt="" coords="2389,394,2420,430,2416,433,2385,397"/>
+<area shape="poly" id="edge52_Node000027_Node000029" title=" " alt="" coords="2481,374,2806,429,2869,442,2868,447,2805,435,2480,379"/>
+<area shape="poly" id="edge57_Node000027_Node000032" title=" " alt="" coords="2453,387,2603,437,2601,442,2451,392"/>
+<area shape="poly" id="edge53_Node000029_Node000007" title=" " alt="" coords="2854,501,2806,509,2671,526,2565,533,2459,541,2324,557,2261,569,2261,563,2323,552,2458,535,2564,528,2670,521,2805,504,2853,496"/>
+<area shape="poly" id="edge56_Node000029_Node000022" title=" " alt="" coords="2864,506,2850,509,2693,545,2549,574,2548,568,2692,540,2849,504,2863,501"/>
+<area shape="poly" id="edge54_Node000029_Node000030" title=" " alt="" coords="2963,514,2945,563,2940,561,2958,512"/>
+<area shape="rect" id="Node000031" href="$nmbus_8c.html" title="This module contains WINC3400 bus APIs implementation." alt="" coords="3063,563,3277,621"/>
+<area shape="poly" id="edge55_Node000029_Node000031" title=" " alt="" coords="3035,505,3125,560,3122,564,3033,509"/>
+<area shape="poly" id="edge62_Node000034_Node000005" title=" " alt="" coords="2161,502,2234,530,2261,543,2274,553,2286,573,2290,593,2287,612,2274,631,2259,640,2229,649,2131,671,1831,719,1484,767,1203,802,1202,797,1484,761,1830,714,2130,666,2227,644,2257,635,2271,627,2282,610,2285,593,2281,575,2271,556,2258,547,2232,535,2159,507"/>
+<area shape="poly" id="edge63_Node000034_Node000007" title=" " alt="" coords="2094,509,2134,560,2129,564,2090,512"/>
+<area shape="poly" id="edge64_Node000034_Node000010" title=" " alt="" coords="2016,511,1953,564,1949,560,2013,507"/>
+<area shape="poly" id="edge65_Node000034_Node000011" title=" " alt="" coords="1956,506,1771,565,1769,560,1954,501"/>
+<area shape="poly" id="edge67_Node000034_Node000022" title=" " alt="" coords="2167,501,2352,560,2350,565,2165,506"/>
+<area shape="poly" id="edge66_Node000034_Node000030" title=" " alt="" coords="2183,485,2826,573,2825,579,2182,490"/>
+<area shape="poly" id="edge71_Node000035_Node000007" title=" " alt="" coords="1700,372,1773,394,1809,410,1842,430,1861,449,1872,468,1881,487,1899,504,2063,560,2062,565,1896,509,1877,490,1867,470,1857,452,1839,434,1806,415,1771,399,1698,377"/>
+<area shape="poly" id="edge72_Node000035_Node000013" title=" " alt="" coords="1456,367,1121,392,918,412,714,435,601,451,601,446,713,429,917,406,1120,387,1455,361"/>
+<area shape="poly" id="edge73_Node000035_Node000019" title=" " alt="" coords="1456,377,940,455,939,449,1455,372"/>
+<area shape="poly" id="edge74_Node000035_Node000022" title=" " alt="" coords="1700,369,1798,381,1892,387,2015,393,2135,405,2185,415,2224,430,2247,447,2259,465,2270,485,2289,505,2333,535,2378,560,2376,564,2330,539,2285,509,2266,488,2255,468,2243,450,2222,434,2184,420,2134,410,2014,398,1892,393,1798,387,1699,374"/>
+<area shape="poly" id="edge78_Node000036_Node000022" title=" " alt="" coords="2869,399,2839,463,2823,491,2808,509,2778,529,2747,545,2680,570,2612,585,2549,592,2548,587,2611,579,2679,565,2745,540,2776,524,2804,505,2819,488,2834,460,2864,397"/>
+<area shape="poly" id="edge77_Node000036_Node000031" title=" " alt="" coords="3006,380,3053,400,3096,430,3122,461,3142,496,3166,561,3161,563,3137,498,3118,464,3092,434,3051,405,3004,385"/>
+<area shape="poly" id="edge79_Node000036_Node000032" title=" " alt="" coords="2821,394,2738,442,2736,437,2819,390"/>
+</map>
