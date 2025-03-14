@@ -1,0 +1,11 @@
+<map id="C:/Xilinx/Workspace/Zedboard_Winc3400/Workspace/Wi&#45;Fi_Test/src/zynq.h" name="C:/Xilinx/Workspace/Zedboard_Winc3400/Workspace/Wi&#45;Fi_Test/src/zynq.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="361,5,575,64"/>
+<area shape="rect" id="Node000002" href="$helloworld_8c.html" title="BLE and Wi&#45;Fi Initialization with SPI Communication." alt="" coords="5,120,219,179"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="364,72,203,122,202,117,362,66"/>
+<area shape="rect" id="Node000003" href="$nm__bsp_8c.html" title="This module contains SAMD21 BSP APIs implementation." alt="" coords="243,120,456,179"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="429,77,382,121,378,117,425,73"/>
+<area shape="rect" id="Node000004" href="$nm__bus__wrapper__zynq__7000_8c.html" title="This module contains WINC3400 bus wrapper APIs implementation." alt="" coords="480,112,693,187"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="511,73,550,110,546,114,507,76"/>
+<area shape="rect" id="Node000005" href="$zynq_8c.html" title=" " alt="" coords="717,120,931,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="574,66,734,117,733,122,572,72"/>
+</map>
