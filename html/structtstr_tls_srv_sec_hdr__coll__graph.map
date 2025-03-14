@@ -1,0 +1,5 @@
+<map id="tstrTlsSrvSecHdr" name="tstrTlsSrvSecHdr">
+<area shape="rect" id="Node000001" title="This struct contains a set of TLS certificates." alt="" coords="21,96,143,123"/>
+<area shape="rect" id="Node000002" href="$structtstr_tls_srv_sec_file_entry.html" title="This struct contains a TLS certificate." alt="" coords="5,5,159,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,48,85,95,79,95,79,48"/>
+</map>

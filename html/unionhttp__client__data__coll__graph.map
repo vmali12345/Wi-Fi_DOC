@@ -1,0 +1,13 @@
+<map id="http_client_data" name="http_client_data">
+<area shape="rect" id="Node000001" title="Structure of the HTTP client callback." alt="" coords="368,131,481,157"/>
+<area shape="rect" id="Node000002" href="$structhttp__client__data__sock__connected.html" title="Structure of the HTTP_CLIENT_CALLBACK_SOCK_CONNECTED callback." alt="" coords="30,5,178,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,34,269,50,345,78,383,102,412,128,408,132,379,106,342,82,267,55,193,39"/>
+<area shape="rect" id="Node000003" href="$structhttp__client__data__requested.html" title="Structure of the HTTP_CLIENT_CALLBACK_REQUESTED callback." alt="" coords="15,72,193,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,96,344,120,375,127,374,133,343,125,207,102"/>
+<area shape="rect" id="Node000004" href="$structhttp__client__data__recv__response.html" title="Structure of the HTTP_CLIENT_CALLBACK_RECV_RESPONSE callback." alt="" coords="31,123,177,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="192,141,367,141,367,147,192,147"/>
+<area shape="rect" id="Node000005" href="$structhttp__client__data__recv__chunked__data.html" title="Structure of the HTTP_CLIENT_CALLBACK_RECV_CHUNKED_DATA callback." alt="" coords="31,189,177,232"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="191,193,343,163,373,155,374,161,344,168,193,198"/>
+<area shape="rect" id="Node000006" href="$structhttp__client__data__disconnected.html" title="Structure of the HTTP_CLIENT_CALLBACK_DISCONNECTED callback." alt="" coords="5,256,203,283"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="217,250,281,233,342,208,380,183,409,156,412,160,383,187,345,213,282,238,218,255"/>
+</map>

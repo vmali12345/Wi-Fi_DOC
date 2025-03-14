@@ -1,0 +1,7 @@
+<map id="tstrSocketRecvMsg" name="tstrSocketRecvMsg">
+<area shape="rect" id="Node000001" title="Socket recv status." alt="" coords="5,187,143,213"/>
+<area shape="rect" id="Node000002" href="$structsockaddr__in.html" title="Socket address structure for IPV4 addresses. Used to specify socket address information to connect to..." alt="" coords="28,96,120,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,138,77,186,71,186,71,138"/>
+<area shape="rect" id="Node000003" href="$structin__addr.html" title="IPv4 address representation." alt="" coords="42,5,106,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="77,48,77,95,71,95,71,48"/>
+</map>

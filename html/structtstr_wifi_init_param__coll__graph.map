@@ -1,0 +1,7 @@
+<map id="tstrWifiInitParam" name="tstrWifiInitParam">
+<area shape="rect" id="Node000001" title="Structure, holding the Wi&#45;fi configuration attributes such as the wi&#45;fi callback ,..." alt="" coords="116,96,235,123"/>
+<area shape="rect" id="Node000002" href="$structtstr_m2_m_wifi_rx_packet_info.html" title="This struct contains the Wi&#45;Fi RX Frame Header. The M2M application has the ability to allow Wi&#45;Fi mo..." alt="" coords="5,5,178,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,42,165,94,162,97,112,46"/>
+<area shape="rect" id="Node000003" href="$structtstr_eth_init_param.html" title="Structure to hold Ethernet interface parameters. Structure is to be defined and have its attributes s..." alt="" coords="201,5,318,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="248,47,228,74,198,98,195,94,224,70,244,44"/>
+</map>

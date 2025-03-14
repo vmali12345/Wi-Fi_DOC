@@ -1,0 +1,7 @@
+<map id="tstrSocketAcceptMsg" name="tstrSocketAcceptMsg">
+<area shape="rect" id="Node000001" title="Socket accept status." alt="" coords="5,187,153,213"/>
+<area shape="rect" id="Node000002" href="$structsockaddr__in.html" title="Socket address structure for IPV4 addresses. Used to specify socket address information to connect to..." alt="" coords="33,96,125,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,138,82,186,76,186,76,138"/>
+<area shape="rect" id="Node000003" href="$structin__addr.html" title="IPv4 address representation." alt="" coords="47,5,111,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="82,48,82,95,76,95,76,48"/>
+</map>
