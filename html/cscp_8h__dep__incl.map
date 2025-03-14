@@ -1,0 +1,21 @@
+<map id="C:/Xilinx/Workspace/Zedboard_Winc3400/Workspace/Wi&#45;Fi_Test/src/cscp.h" name="C:/Xilinx/Workspace/Zedboard_Winc3400/Workspace/Wi&#45;Fi_Test/src/cscp.h">
+<area shape="rect" id="Node000001" title="Custom Serial Chat Profile." alt="" coords="361,5,575,64"/>
+<area shape="rect" id="Node000002" href="$ble__manager_8h.html" title="BLE Manager declarations." alt="" coords="361,112,575,171"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="471,80,471,112,465,112,465,80"/>
+<area shape="rect" id="Node000004" href="$cscp_8c.html" title="Custom Serial Chat Profile." alt="" coords="5,219,219,277"/>
+<area shape="poly" id="edge9_Node000001_Node000004" title=" " alt="" coords="408,75,162,220,159,216,405,70"/>
+<area shape="rect" id="Node000008" href="$helloworld_8c.html" title="BLE and Wi&#45;Fi Initialization with SPI Communication." alt="" coords="665,432,879,491"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="591,43,682,61,731,75,780,93,828,115,872,143,911,177,945,217,968,260,976,301,968,342,945,386,916,416,880,437,878,432,913,411,940,382,963,340,971,301,963,262,940,220,908,181,869,148,825,120,778,98,730,80,681,66,590,48"/>
+<area shape="rect" id="Node000003" href="$ble__manager_8c.html" title="BLE Manager." alt="" coords="243,219,456,277"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="426,183,383,220,380,216,422,179"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="357,178,210,221,209,216,355,173"/>
+<area shape="rect" id="Node000005" href="$cscs_8c.html" title="Custom Serial Chat Service." alt="" coords="480,219,693,277"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="514,179,556,216,553,220,510,183"/>
+<area shape="rect" id="Node000006" href="$m2m__ble_8h.html" title="WINC3400 BLE Application example code." alt="" coords="717,219,931,277"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="581,173,727,216,726,221,579,178"/>
+<area shape="rect" id="Node000007" href="$_wi___fi___initialization_8h.html" title=" " alt="" coords="458,325,694,384"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="743,286,645,327,643,322,741,281"/>
+<area shape="rect" id="Node000009" href="$m2m__ble_8c.html" title="WINC3400 BLE Application example code." alt="" coords="717,325,931,384"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="827,293,827,325,821,325,821,293"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="644,389,719,429,717,434,642,394"/>
+</map>
