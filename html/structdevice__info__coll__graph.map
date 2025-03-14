@@ -1,0 +1,14 @@
+<map id="device_info" name="device_info">
+<area shape="rect" id="Node000001" title=" " alt="" coords="259,192,347,219"/>
+<area shape="rect" id="Node000002" href="$structat__ble__addr__t.html" title="Blue&#45;tooth Low Energy address Type." alt="" coords="5,5,105,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="46,47,37,88,39,108,47,126,61,138,81,149,137,169,202,184,259,195,258,200,200,189,136,174,79,154,58,143,43,130,34,109,32,87,41,46"/>
+<area shape="rect" id="Node000005" href="$structat__ble___i_r_k__t.html" title=" " alt="" coords="133,99,230,125"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="86,39,166,96,163,100,83,44"/>
+<area shape="rect" id="Node000003" href="$structat__ble___l_t_k__t.html" title="Long Term Key." alt="" coords="254,99,352,125"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="306,141,306,192,300,192,300,141"/>
+<area shape="rect" id="Node000004" href="$structat__ble___c_s_r_k__t.html" title="Connection Signature Resolution Key." alt="" coords="376,99,488,125"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="403,137,322,194,319,189,400,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="212,133,288,189,285,194,209,137"/>
+<area shape="rect" id="Node000006" href="$structat__ble__spcp__t.html" title="Slave preferred connection parameters." alt="" coords="513,99,616,125"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="516,133,411,171,341,194,340,189,409,165,514,128"/>
+</map>
