@@ -1,0 +1,23 @@
+<map id="C:/Xilinx/Workspace/Zedboard_Winc3400/Workspace/Wi&#45;Fi_Test/src/socket_internal.h" name="C:/Xilinx/Workspace/Zedboard_Winc3400/Workspace/Wi&#45;Fi_Test/src/socket_internal.h">
+<area shape="rect" id="Node000001" title="BSD compatible socket interface internal types." alt="" coords="5,5,219,64"/>
+<area shape="rect" id="Node000002" href="$socket_8h.html" title="BSD compatible socket interface." alt="" coords="76,187,148,213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,65,83,100,81,119,83,138,97,172,92,174,77,139,75,119,78,99,92,64"/>
+<area shape="rect" id="Node000010" href="$m2m__socket__host__if_8h.html" title="BSD compatible socket interface internal types." alt="" coords="93,112,246,139"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="133,63,155,97,151,100,128,66"/>
+<area shape="rect" id="Node000003" href="$m2m__types_8h.html" title="WINC3400 IoT Application Interface Internal Types." alt="" coords="62,261,162,288"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="115,214,115,246,109,246,109,214"/>
+<area shape="rect" id="Node000004" href="$nm__common_8h.html" title="This module contains common APIs declarations." alt="" coords="58,336,166,363"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="115,289,115,320,109,320,109,289"/>
+<area shape="rect" id="Node000005" href="$nm__bsp_8h.html" title="This module contains WINC3400 BSP APIs declarations." alt="" coords="32,485,110,512"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="111,364,81,471,76,470,106,362"/>
+<area shape="rect" id="Node000008" href="$nm__debug_8h.html" title="This module contains debug APIs declarations." alt="" coords="108,411,201,437"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="122,362,142,396,137,399,117,365"/>
+<area shape="rect" id="Node000006" href="$winc1500__config_8h.html" title=" " alt="" coords="6,560,135,587"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="73,513,73,544,68,544,68,513"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="40,635,101,661"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="73,587,73,619,68,619,68,587"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="142,440,98,477,95,473,138,436"/>
+<area shape="rect" id="Node000009" href="$nm__bsp__internal_8h.html" title="This module contains WINC3400 BSP APIs declarations." alt="" coords="134,485,261,512"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="164,437,185,471,180,473,160,439"/>
+<area shape="poly" id="edge11_Node000010_Node000002" title=" " alt="" coords="161,141,133,176,129,173,157,138"/>
+</map>
